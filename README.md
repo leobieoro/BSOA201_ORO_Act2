@@ -1,4 +1,5 @@
 # BSOA201_ORO_Act2
+
 What did you learn about how WordPress stores its files and data?
 I learned that WordPress saves its files in folders, while all the website content and settings are stored in a database.
 
